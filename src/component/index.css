@@ -1,0 +1,30 @@
+.bg-container{
+    width: 100vw;
+}
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.graph-container{ 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+}
+.add-button{
+  padding: 6px;
+  width: 60px;
+  background-color: blue;
+  color: #ffffff;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+.input{
+    padding: 6px;
+    border-radius: 5px;
+}
+
+
